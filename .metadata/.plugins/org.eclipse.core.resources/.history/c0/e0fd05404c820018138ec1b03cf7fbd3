@@ -1,9 +1,0 @@
-package velvetobj;
-
-public class OBJFileUtils
-{
-	public static String readAsStrig()
-	{
-		
-	}
-}
