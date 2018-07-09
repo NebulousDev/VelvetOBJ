@@ -1,0 +1,5 @@
+package velvetobj;
+
+public class OBJVertex {
+
+}

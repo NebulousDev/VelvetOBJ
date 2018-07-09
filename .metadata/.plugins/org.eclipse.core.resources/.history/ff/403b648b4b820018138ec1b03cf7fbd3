@@ -1,0 +1,11 @@
+
+apply plugin: 'java'
+
+apply plugin: 'eclipse'
+
+sourceSets
+{
+    main.java.srcDirs = ['src']
+    main.resources.srcDirs = ['res']
+}
+

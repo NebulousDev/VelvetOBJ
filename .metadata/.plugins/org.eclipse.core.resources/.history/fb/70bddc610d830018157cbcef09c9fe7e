@@ -1,0 +1,7 @@
+package velvetobj;
+
+public class OBJBundle
+{
+	public int index;
+	public int count;
+}

@@ -1,0 +1,9 @@
+package velvetobj;
+
+public class OBJFileUtils
+{
+	public static String readAsString(String filepath)
+	{
+		
+	}
+}

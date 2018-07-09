@@ -1,0 +1,3 @@
+rootProject.name = 'Tests'
+include ":VelvetOBJ"
+project(":VelvetOBJ").projectDir = file("../VelvetOBJ")

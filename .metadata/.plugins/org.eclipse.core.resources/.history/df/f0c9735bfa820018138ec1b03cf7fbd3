@@ -1,0 +1,11 @@
+import velvetobj.OBJModel;
+import velvetobj.OBJParser;
+
+public class OBJTestMain
+{
+	public static void main(String[] args)
+	{
+		OBJModel model = OBJParser.parseOBJ("/res/testScene.obj");
+		System.out.println("[VELVET OBJ] Successfully parsed '" + model.name + "'.");
+	}
+}

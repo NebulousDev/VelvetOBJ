@@ -1,0 +1,14 @@
+package velvetobj;
+
+public class OBJModel
+{
+	public String name;
+	
+	public OBJVertexFormat vertexFormat;
+	
+	public OBJBundle[] 	objectBundle;
+	public OBJBundle[] 	materialBundle;
+	
+	public OBJVertex[]	vertices;
+	public Integer[] 	indices;
+}
