@@ -13,4 +13,4 @@ A simple OBJ parser written in Java, created for the [VelvetEngine](https://gith
   - OBJ groups
   - OBJ objects
 
-Copyright (C) 2018 Ben Ratcliff (NebulousDev) under GPLv3
+Copyright (C) 2018 Ben Ratcliff (NebulousDev) under MIT
