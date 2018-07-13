@@ -557,7 +557,7 @@ public class OBJParser
 		
 		int i = 1;
 		boolean name = false;
-		while(i != tokens.length || name)
+		while(i != tokens.length && !name)
 		{
 			switch(tokens[i])
 			{
