@@ -117,7 +117,7 @@ public class OBJParser
 			bundle.name = model.name;
 			bundle.index = 0;
 			bundle.count = indices.size();
-			objectBundles.add(bundle);
+			materialBundles.add(bundle);
 		}
 		
 		else
