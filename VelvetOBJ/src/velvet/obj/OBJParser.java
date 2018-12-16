@@ -1,4 +1,4 @@
-package velvetobj;
+package velvet.obj;
 
 import java.util.ArrayList;
 import java.util.HashMap;

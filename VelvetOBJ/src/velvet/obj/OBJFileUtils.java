@@ -1,4 +1,4 @@
-package velvetobj;
+package velvet.obj;
 
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;

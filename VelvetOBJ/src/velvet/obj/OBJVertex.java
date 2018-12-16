@@ -1,4 +1,4 @@
-package velvetobj;
+package velvet.obj;
 
 public class OBJVertex
 {
